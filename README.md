@@ -1,0 +1,2 @@
+# SMEditor
+Simple Notepad editor
